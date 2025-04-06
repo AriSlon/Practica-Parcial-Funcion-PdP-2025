@@ -6,8 +6,6 @@ Nombre y Apellido: ***Ariel SLonimsqui***
 [![build](https://github.com/pdep-mit/mini-tps-funcional-2025-AriSlon/actions/workflows/build.yml/badge.svg)](https://github.com/pdep-mit/mini-tps-funcional-2025-AriSlon/actions/workflows/build.yml)
 
 
-> :exclamation: **Reemplazá ambas ocurrencias de `TuUsuarioDeGitHub` como se explica en el TP0 para que el badge de Github Actions se genere correctamente** :arrow_up:
-
 ## Información general
 
 En la carpeta `consignas` estarán disponibles los ejercicios a realizar para cada mini TP, en formato Markdown (`.md`). Estos archivos pueden verse, incluyendo formato e imágenes, desde GitHub o usando la vista previa de VSCode, el editor recomendado para trabajar.
