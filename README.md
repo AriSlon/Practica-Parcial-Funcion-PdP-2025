@@ -1,9 +1,9 @@
 # Mini TPs - Paradigma Funcional 2025
 
-Nombre y Apellido: ***...COMPLETAR...***
+Nombre y Apellido: ***Ariel SLonimsqui***
 
 
-[![build](https://github.com/pdep-mit/mini-tps-funcional-2025-TuUsuarioDeGitHub/actions/workflows/build.yml/badge.svg)](https://github.com/pdep-mit/mini-tps-funcional-2025-TuUsuarioDeGitHub/actions/workflows/build.yml)
+[![build](https://github.com/pdep-mit/mini-tps-funcional-2025-AriSlon/actions/workflows/build.yml/badge.svg)](https://github.com/pdep-mit/mini-tps-funcional-2025-AriSlon/actions/workflows/build.yml)
 
 
 > :exclamation: **Reemplazá ambas ocurrencias de `TuUsuarioDeGitHub` como se explica en el TP0 para que el badge de Github Actions se genere correctamente** :arrow_up:
