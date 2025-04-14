@@ -1,6 +1,6 @@
 # Mini TPs - Paradigma Funcional 2025
 
-Nombre y Apellido: ***Ariel SLonimsqui***
+Nombre y Apellido: ***Ariel Slonimsqui***
 
 
 [![build](https://github.com/pdep-mit/mini-tps-funcional-2025-AriSlon/actions/workflows/build.yml/badge.svg)](https://github.com/pdep-mit/mini-tps-funcional-2025-AriSlon/actions/workflows/build.yml)
