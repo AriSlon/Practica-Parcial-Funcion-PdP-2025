@@ -21,3 +21,4 @@ estacion 10 = "primavera"
 estacion x
      | mod x 3 == 0 = (estacion (mesAnterior x)) ++ "/" ++ (estacion (mesSiguiente x))
      | otherwise = (estacion (mesAnterior x))  --En caso de ingresar un numero por fuera del dominio, va a saltar el error cuando se llame a mesAnterior, por lo que no hace falta preguntar por si esMes(x) es True.
+
