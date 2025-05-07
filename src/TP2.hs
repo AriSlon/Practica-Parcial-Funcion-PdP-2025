@@ -6,8 +6,8 @@ type Minutos = Number --Expresividad
 
 data Video = Video {
   titulo :: String,
-  minutos :: Number,
-  hashtags :: [String]
+  minutos :: Minutos,
+  hashtags :: [Hashtag]
 } deriving (Show, Eq)
 
 
