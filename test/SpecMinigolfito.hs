@@ -1,7 +1,7 @@
-module SpecTP0 where
+module SpecMinigolfito where
 import PdePreludat
 
-import TP0
+import Minigolfito
 import Test.Hspec
 
 spec = do
